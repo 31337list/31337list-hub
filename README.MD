@@ -7,4 +7,3 @@ I basically made this entirely for myself, but I might as well put the code here
 ------------------------------------------------------
 
 TODO:
-- add emulators button
